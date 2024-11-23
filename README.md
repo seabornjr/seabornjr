@@ -5,7 +5,7 @@
  🔭 I’m currently working on a Vounteer Project for [Rising Phoenix Education](https://mwilson7598.wixsite.com/rising-phoenix-educa)
  
  Here's a little about Rising Phoenix in case you'd like to help!:
-- The goal of Rising Phoenix is to connect Parent's and Guidance counselors of promising students from underfunded school districts with working               professionals from a similar background who can help guide them through college prep and college admissions.
+- The goal of Rising Phoenix is to connect parents and Guidance Counselors of promising students from underfunded school districts with working               professionals from a similar background who can help guide them through college prep and college admissions.
 
 My contribution to the project are two apps that are currently in progress via the repos pinned to my profile. 
 - Phoenix Web will be a web dashboard for our mentors and University Admissions to track students and communicate with Guidance Counselors
